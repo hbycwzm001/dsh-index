@@ -8,4 +8,4 @@ https://hbycwzm001.github.io/dsh-index/index.json
 
 添加后即可看到并安装全部插件：翻译、解片、生图/视频画布、配音、飞书、编导、Ego 浏览器。
 
-索引由 Muse 维护：每新增或更新一个插件，同步更新本文件（index.json）。
+索引里的安装地址指向码云（Gitee，账号 hbycwzm）镜像仓库，国内直连下载；开发主仓库在 GitHub（hbycwzm001），两边内容一致。索引由 Muse 维护：每新增或更新一个插件，同步更新本文件（index.json）。

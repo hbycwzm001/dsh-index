@@ -69,9 +69,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMyNTYzZWIiLz4KICA8cGF0aCBkPSJNMTQgMjBoMjB2My40SDI0LjZWMzBIMzJ2My40aC03LjR2My4yaDkuMmMxLTIuMiAxLjctNC42IDIuMS03LjJoMy42Yy0uNSAzLTEuNCA1LjgtMi42IDguM2w2LjEgNi0yLjQgMi40LTYtNmMtMiAzLTQuNyA1LjYtOCA3LjdsLTIuMS0yLjljMy4yLTEuOSA1LjctNC4yIDcuNS03LjNIMTR2LTMuNGg4LjZ2LTMuMmgtNS40VjI3aDUuNHYtMy42SDE0eiIgZmlsbD0iI2ZmZiIvPgogIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMTkiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPHBhdGggZD0iTTM2IDE5aDE4TTQ1IDEwYzMgMyAzIDE1IDAgMThNNDUgMTBjLTMgMy0zIDE1IDAgMTgiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+Cg==",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-translate",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-translate",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-translate"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-translate"
       },
       "metadata": {
         "category": "text",
@@ -95,7 +95,7 @@
           "publishTimestamp": 1795671017,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-translate",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-translate",
             "commit": "42a3431470c5517eee9793f3bd4cc825810bac7d"
           },
           "engines": {
@@ -116,9 +116,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM0ZjhjZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjN2IzZmYyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSI0IiB5PSIxMCIgd2lkdGg9IjU2IiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0idXJsKCNnKSIvPgogIDxwYXRoIGQ9Ik0yNiAyMmwxNiA4LTE2IDh6IiBmaWxsPSIjZmZmIi8+CiAgPHJlY3QgeD0iMTQiIHk9IjU0IiB3aWR0aD0iMzYiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9InVybCgjZykiIG9wYWNpdHk9Ii41NSIvPgo8L3N2Zz4K",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-media-extract",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-media-extract",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-media-extract"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-media-extract"
       },
       "metadata": {
         "category": "media",
@@ -140,7 +140,7 @@
           "publishTimestamp": 1795671047,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-media-extract",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-media-extract",
             "commit": "3c9621a26e7229ac3891b17c040186c9a76f36c0"
           },
           "engines": {
@@ -161,9 +161,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiM1YjIxYjYiLz4KICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjI4IiByPSIxNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8cGF0aCBkPSJNMjcgMjAuNXYxNWwxMy03LjV6IiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTE4IDUyaDI4TTIzIDU3aDE4IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-biandao",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-biandao",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-biandao"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-biandao"
       },
       "metadata": {
         "category": "content",
@@ -193,7 +193,7 @@
           "publishTimestamp": 1795671702,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-biandao",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-biandao",
             "commit": "1280f8b8c15784339974c202cb2d5823e912f700"
           },
           "engines": {
@@ -214,9 +214,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiM3YjYxZmYiLz4KICA8cmVjdCB4PSIyNyIgeT0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyNCIgcng9IjUiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBkPSJNMjAgMjlhMTIgMTIgMCAwIDAgMjQgMGgtMy42YTguNCA4LjQgMCAwIDEtMTYuOCAwSDIweiIgZmlsbD0iI2ZmZiIvPgogIDxyZWN0IHg9IjMwLjIiIHk9IjQxIiB3aWR0aD0iMy42IiBoZWlnaHQ9IjciIGZpbGw9IiNmZmYiLz4KICA8cmVjdCB4PSIyNCIgeT0iNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzLjQiIHJ4PSIxLjciIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBkPSJNNDggMjIuNWMxLjkgMi45IDEuOSA2LjEgMCA5TTUyLjUgMTljMyA0LjMgMyA5LjcgMCAxNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIuODUiLz4KPC9zdmc+Cg==",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-voiceover",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-voiceover",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-voiceover"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-voiceover"
       },
       "metadata": {
         "category": "audio",
@@ -242,7 +242,7 @@
           "publishTimestamp": 1795672224,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-voiceover",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-voiceover",
             "commit": "6a21c6852512f540ada4dde954eac4caa5501759"
           },
           "engines": {
@@ -263,9 +263,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMzMzcwZmYiLz4KICA8cGF0aCBkPSJNNTAgMTQgMjIuNSAyNy41Yy0xLjkuOS0xLjggMy42LjEgNC40bDcgMi45IDMuNCA3LjJjLjggMS44IDMuMyAxLjkgNC4zLjJMNTAgMTRaIiBmaWxsPSIjZmZmZmZmIi8+CiAgPHBhdGggZD0iTTUwIDE0IDI5LjYgMzQuOGwzLjQgNy4yTDUwIDE0WiIgZmlsbD0iI2I5Y2NmZiIvPgogIDxwYXRoIGQ9Ik0zNS40IDMyLjYgNTAgMTQgNDAuMiAzNi40Yy0uNiAxLjQtMi42IDEuNi0zLjYuNGwtMi44LTMuNGMtLjQtLjUuMS0xLjIuNy0xbC45LjJaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuNTUiLz4KPC9zdmc+Cg==",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-feishu-view",
+      "homepage": "https://gitee.com/hbycwzm/dsh-feishu-view",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-feishu-view"
+        "url": "https://gitee.com/hbycwzm/dsh-feishu-view"
       },
       "metadata": {
         "category": "productivity",
@@ -294,7 +294,7 @@
           "publishTimestamp": 1795672249,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-feishu-view",
+            "url": "https://gitee.com/hbycwzm/dsh-feishu-view",
             "commit": "d6b4e3e3705a0c81ddfdb394365c8edc0539e3cd"
           },
           "engines": {
@@ -315,9 +315,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkVnbyBicm93c2VyIj4KICA8cmVjdCB4PSI1IiB5PSI5IiB3aWR0aD0iNTQiIGhlaWdodD0iNDYiIHJ4PSIxMCIgZmlsbD0iIzBmMTcyYSIvPgogIDxyZWN0IHg9IjUiIHk9IjkiIHdpZHRoPSI1NCIgaGVpZ2h0PSI0NiIgcng9IjEwIiBmaWxsPSJub25lIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iMy41Ii8+CiAgPHBhdGggZD0iTTUgMjNoNTQiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjE2IiByPSIyLjIiIGZpbGw9IiNmNDcyYjYiLz4KICA8Y2lyY2xlIGN4PSIyMS41IiBjeT0iMTYiIHI9IjIuMiIgZmlsbD0iI2ZiYmYyNCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iMTYiIHI9IjIuMiIgZmlsbD0iIzRhZGU4MCIvPgogIDxwYXRoIGQ9Ik0zMiAyNyBMNDQgMzMgTDM4LjUgMzUuMiBMMzYgNDEgWiIgZmlsbD0iI2Y4ZmFmYyIgc3Ryb2tlPSIjMGYxNzJhIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-ego",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-ego",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-ego"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-ego"
       },
       "metadata": {
         "category": "browser",
@@ -338,7 +338,7 @@
           "publishTimestamp": 1795676029,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-ego",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-ego",
             "commit": "79d680a1629e5d3dec6cc9220764757b1b252bfa"
           },
           "engines": {
@@ -359,9 +359,9 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IueUn+WbviI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNjM2NmYxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzIyZDNlZSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjU2IiBoZWlnaHQ9IjU2IiByeD0iMTQiIGZpbGw9InVybCgjZykiLz4KICA8cmVjdCB4PSIxNCIgeT0iMTgiIHdpZHRoPSIzNiIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC45MiIvPgogIDxjaXJjbGUgY3g9IjI0IiBjeT0iMjgiIHI9IjQiIGZpbGw9IiM2MzY2ZjEiLz4KICA8cGF0aCBkPSJNMTYgNDJsMTAtMTAgOCA4IDYtNiA4IDh2MmEyIDIgMCAwIDEtMiAySDE4YTIgMiAwIDAgMS0yLTJ6IiBmaWxsPSIjMGVhNWU5IiBmaWxsLW9wYWNpdHk9IjAuODUiLz4KICA8cGF0aCBkPSJNNDcgMTBsMi4yIDUuMkw1NCAxNy40bC00LjggMi4yTDQ3IDI1bC0yLjItNS40TDQwIDE3LjRsNC44LTIuMnoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==",
       "author": "hbycwzm001",
-      "homepage": "https://github.com/hbycwzm001/dsh-plugin-image-studio",
+      "homepage": "https://gitee.com/hbycwzm/dsh-plugin-image-studio",
       "repository": {
-        "url": "https://github.com/hbycwzm001/dsh-plugin-image-studio"
+        "url": "https://gitee.com/hbycwzm/dsh-plugin-image-studio"
       },
       "metadata": {
         "category": "image",
@@ -387,7 +387,7 @@
           "publishTimestamp": 1795676029,
           "source": {
             "type": "git",
-            "url": "https://github.com/hbycwzm001/dsh-plugin-image-studio",
+            "url": "https://gitee.com/hbycwzm/dsh-plugin-image-studio",
             "commit": "6892a2d3e7d8589b0f84f31fc4dc49b530dce204"
           },
           "engines": {
