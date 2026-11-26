@@ -94,9 +94,8 @@
           "version": "0.1.1",
           "publishTimestamp": 1795671017,
           "source": {
-            "type": "git",
-            "url": "https://gitee.com/hbycwzm/dsh-plugin-translate",
-            "commit": "42a3431470c5517eee9793f3bd4cc825810bac7d"
+            "type": "npm",
+            "registry": "https://registry.npmmirror.com/"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.1"
